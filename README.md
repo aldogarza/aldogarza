@@ -1,28 +1,24 @@
-# Aldo Garza - Programador y Artista Digital
+# Aldo Garza - Programmer and Digital Artist
+Hello! I'm Aldo Garza, a passionate programmer and digital artist based in Monterrey, Nuevo León, Mexico. Here you'll find an overview of my interests and skills.
 
-¡Hola! Soy Aldo Garza, un apasionado programador y artista digital con sede en Monterrey, Nuevo León, México. Aquí encontrarás una visión general de mis intereses y habilidades.
+## About Me
+🎨 Digital artist and 3D modeler.
+💻 Programmer.
+🧠 Passionate about artificial intelligence.
+🖥️ Project management expert.
 
-## Acerca de mí
+## Technologies and Tools
+Here are some of the technologies and tools I work with:
 
-- 🎨 Artista digital y modelador 3D.
-- 💻 Programador.
-- 🧠 Apasionado por la inteligencia artificial.
-- 🖥️ Experto en gestión de proyectos.
+🐍 Python
+📝 C++
+🎨 Blender
+🖋️ Adobe Creative Suite (Photoshop, Illustrator, etc.)
+🕹️ Godot Engine
+🎮 Unreal Engine
+🛒 eCommerce
 
-## Tecnologías y Herramientas
+## Contact
+You can reach me via email: aldogarzaramirez@gmail.com
 
-Aquí hay algunas de las tecnologías y herramientas con las que trabajo:
-
-- 🐍 Python
-- 📝 C++
-- 🎨 Blender
-- 🖋️ Adobe Creative Suite (Photoshop, Illustrator, etc.)
-- 🕹️ Godot Engine
-- 🎮 Unreal Engine
-- 🛒 eCommerce
-
-## Contacto
-
-Puedes contactarme a través de mi correo electrónico: aldogarzaramirez@gmail.com
-
-¡Gracias por visitar mi perfil de GitHub
+Thank you for visiting my GitHub profile!
